@@ -1,4 +1,4 @@
-<h1>College E-Library Project</h1>
+<h1>Improved College E-Library Project</h1>
 
 This is a college e-library where students and professors and login in using there college credentials
 and acsess study materials like: Articles, Books, PPTS, etc.
@@ -6,7 +6,7 @@ and acsess study materials like: Articles, Books, PPTS, etc.
 ![image](https://github.com/AdityaBhate/Improved-E-Library-/assets/98549181/d65cff35-e6a9-45f3-aa95-a0fc5b228338)
 
 <h2>User Auth</h2>
-students and professors can login in using college Credentials such as Rollno. and employee id<br/>
+Students and professors can login in using college Credentials such as Rollno. and employee id<br/>
 
 ![image](https://user-images.githubusercontent.com/98549181/222887043-65578b53-11c3-4c68-89b2-c053254e881c.png)
 
@@ -21,7 +21,7 @@ Librarians and professors can add and delete books:<br/>
 
 ![image](https://user-images.githubusercontent.com/98549181/222887338-2f709704-eb6c-4105-a54b-3a64b0d339da.png)
 
-Tech stack used:
+<h3>Tech stack used:</h3>
 
 <li>React</li>
 <li>Node.js</li>
