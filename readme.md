@@ -3,7 +3,7 @@
 This is a college e-library where students and professors and login in using there college credentials
 and acsess study materials like: Articles, Books, PPTS, etc.
 
-![image](https://user-images.githubusercontent.com/98549181/222886877-b80104ca-355e-4ad9-aca3-6c65ee5795ce.png)
+![image](https://github.com/AdityaBhate/Improved-E-Library-/assets/98549181/d65cff35-e6a9-45f3-aa95-a0fc5b228338)
 
 <h2>User Auth</h2>
 students and professors can login in using college Credentials such as Rollno. and employee id<br/>
