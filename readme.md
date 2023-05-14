@@ -21,7 +21,7 @@ Librarians and professors can add and delete books:<br/>
 
 ![image](https://user-images.githubusercontent.com/98549181/222887338-2f709704-eb6c-4105-a54b-3a64b0d339da.png)
 
-Tech stack used:
+<h3>Tech stack used:</h3>
 
 <li>React</li>
 <li>Node.js</li>
