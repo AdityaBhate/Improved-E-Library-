@@ -3,6 +3,8 @@
 This is a college e-library where students and professors and login in using there college credentials
 and acsess study materials like: Articles, Books, PPTS, etc.
 
+[this is a new repo of improved code, as the older one got deprecated and had git issues]
+
 ![image](https://github.com/AdityaBhate/Improved-E-Library-/assets/98549181/d65cff35-e6a9-45f3-aa95-a0fc5b228338)
 
 <h2>User Auth</h2>
