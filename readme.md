@@ -28,3 +28,8 @@ Librarians and professors can add and delete books:<br/>
 <li>React</li>
 <li>Node.js</li>
 <li>MongoDB</li>
+
+<h2>Contributors</h2>
+<li> Aditya Bhate </li>
+<li> Abbas Jaidi </li>
+<li> Ashutosh Mishtra </li>
